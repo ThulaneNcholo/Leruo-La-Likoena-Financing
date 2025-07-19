@@ -1,0 +1,34 @@
+:root {
+  --primary-color: #212529;
+  --secondary-background: #f5f7fa;
+  --text-color: #f2f1f3;
+  --secondary-text: #bfbac4;
+}
+
+
+
+.page_icon {
+  color: #d4a247;
+}
+
+.about_banner {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.btn_border {
+  border-radius: 10px;
+}
+
+.italic_font {
+  font-style: italic;
+}
+
+.qualification_card {
+  border-radius: 20px;
+}
+
+.qualify_icon {
+  background-color: var(--secondary-background) !important;
+  color: var(--primary-color) !important;
+}
